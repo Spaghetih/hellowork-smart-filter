@@ -18,7 +18,7 @@ Une extension Chrome & Firefox pour **filtrer automatiquement les offres d'emplo
 ### 🔧 Mode développeur (Chrome)
 1. Télécharge ce dépôt (`Code` → `Download ZIP`) ou clone-le :
    ```bash
-   git clone https://github.com/votre-utilisateur/hellowork-smart-filter.git
+   git clone https://github.com/Spaghetih/hellowork-smart-filter.git
    ```
 2. Va dans `chrome://extensions`
 3. Active le **mode développeur**
@@ -65,15 +65,6 @@ MaSuperEcole
 ## 🛡️ Respect de la vie privée
 
 Aucune donnée n'est collectée. Tout reste en local via `chrome.storage.sync`.
-
----
-
-## 🤝 Contribuer
-
-Les PR sont bienvenues ! Tu peux :
-- améliorer l'UI
-- ajouter un bouton de rafraîchissement
-- supporter d'autres job boards
 
 ---
 
