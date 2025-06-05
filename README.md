@@ -68,15 +68,6 @@ Aucune donnée n'est collectée. Tout reste en local via `chrome.storage.sync`.
 
 ---
 
-## 🤝 Contribuer
-
-Les PR sont bienvenues ! Tu peux :
-- améliorer l'UI
-- ajouter un bouton de rafraîchissement
-- supporter d'autres job boards
-
----
-
 ## 📤 Licence
 
 MIT – Utilisation libre et gratuite.
