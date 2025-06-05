@@ -16,14 +16,16 @@ Une extension Chrome & Firefox pour **filtrer automatiquement les offres d'emplo
 ## 📦 Installation
 
 ### 🔧 Mode développeur (Chrome)
-1. Télécharge ce dépôt (`Code` → `Download ZIP`) ou clone-le :
-   ```bash
-   git clone https://github.com/Spaghetih/hellowork-smart-filter.git
-   ```
-2. Va dans `chrome://extensions`
-3. Active le **mode développeur**
-4. Clique sur **"Charger l’extension non empaquetée"**
-5. Sélectionne le dossier du projet dézippé
+
+#### Télécharger la version stable
+
+1. Va sur la page [Releases](https://github.com/Spaghetih/hellowork-smart-filter/releases)
+2. Télécharge le fichier `.zip` de la dernière version
+3. Dézippe le fichier où tu veux
+4. Ouvre `chrome://extensions`
+5. Active le **mode développeur** (coin supérieur droit)
+6. Clique sur **"Charger l’extension non empaquetée"**
+7. Sélectionne le dossier **dézippé**
 
 ---
 
